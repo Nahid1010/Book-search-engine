@@ -1,0 +1,23 @@
+{
+  "name": "book-search-engine",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nahid1010/Book-search-engine.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nahid1010/Book-search-engine/issues"
+  },
+  "homepage": "https://github.com/Nahid1010/Book-search-engine#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "graphql": "^15.5.1"
+  }
+}
